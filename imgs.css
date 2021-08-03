@@ -5,8 +5,8 @@
     width: 960px;
 }
 a:active {
-    border-radius: 10px;;
-    background-image:url(https://raw.githubusercontent.com/gp314/clan-rules/main/unnamed2.jpg);
+    border-radius: 10px;
+    background-image: url(https://raw.githubusercontent.com/gp314/clan-rules/main/unnamed2.jpg);
     background-size: cover;
     color: rgba(41, 72, 151, 0);
 }
