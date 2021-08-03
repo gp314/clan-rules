@@ -1,0 +1,66 @@
+
+.container{
+
+    margin: 0 auto;
+    width: 960px;
+}
+a:active {
+    border-radius: 10px;;
+    background-image:url(/unnamed2.png);
+    background-size: cover;
+    color: rgba(41, 72, 151, 0);
+}
+a {
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    background-color: white;
+}
+h2 {
+    color: white;
+    margin:  auto;
+    width: 250px;
+    margin-bottom: 50px;
+    font-size: 25px; 
+    
+}
+em{
+    border-radius: 5px;
+    background-color: red;
+}
+h1{
+    margin-top: 20px;
+    color: white;
+    margin: 0 auto;
+    width: 400px;
+    margin-bottom: 15px;
+    font-size: 30px;
+
+}
+body{
+    font-family:'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    line-height: 1;
+    background-image: url(/clash-of-clans-imagem-divulgacao.jpg);
+    background-size: cover;
+}
+.place{
+    background-color: rgba(41, 72, 151, 0.60);
+    border-color: #ccc #999 #999 #ccc;
+    border:5px solid #ccc;
+    margin-bottom: 1px;
+    padding: 10px;
+}
+p{
+    color: white;
+    font-size: 20px;
+}
+h11{
+    border-radius: 10px;
+    background-color: white;
+    margin-top: 20px;
+    color: black;
+    margin: 0 auto;
+    width: 400px;
+    margin-bottom: 15px;
+    font-size: 25px;
+    font-style:italic;
+}
